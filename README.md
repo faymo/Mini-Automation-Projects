@@ -17,3 +17,5 @@ You have 3 commands you can use.
 # Weather Checker
 To use this weather file, you can run the file normally and enter a valid city name.
 Then it will give you the weather, temperature in celsius, feels like in celsius and the wind speed.
+
+Huge thanks to Tech with Tim for the help
